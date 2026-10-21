@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <category title="Pokemon Icons">
+        <item drawable="ic_phone" />
+        <item drawable="ic_messages" />
+        <item drawable="ic_camera" />
+        <item drawable="ic_gallery" />
+        <item drawable="ic_chrome" />
+        <item drawable="ic_youtube" />
+        <item drawable="ic_facebook" />
+        <item drawable="ic_messenger" />
+        <item drawable="ic_zalo" />
+        <item drawable="ic_settings" />
+        <item drawable="ic_playstore" />
+        <item drawable="ic_maps" />
+        <item drawable="ic_clock" />
+        <item drawable="ic_music" />
+        <item drawable="ic_calculator" />
+        <item drawable="ic_files" />
+        <item drawable="ic_contacts" />
+        <item drawable="ic_weather" />
+    </category>
+</resources>
